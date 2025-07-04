@@ -1,4 +1,5 @@
-# 🔁 Ejercicios Básicos con Bucle For en Python
+# Ejercicio AE4_ABP del Módulo 3 del Bootcamp Fullstack Python Django
+## Por Álvaro Ortega Hamel
 
 Este repositorio contiene un conjunto de ejercicios diseñados para **practicar el uso de bucles `for` en Python**, junto con lógica básica de programación y condiciones.
 
@@ -57,4 +58,5 @@ Solicita al usuario 3 valores:
 
 E imprime todos los números entre `num_inicial` y `num_final` que sean **múltiplos de `multiplo`**.
 
-
+## Nota
+### Estos ejercicios fueron pensados para práctica educativa y son útiles como introducción a la lógica de bucles en Python.
